@@ -1,0 +1,26 @@
+{
+  "name": "static_server",
+  "version": "0.0.1",
+  "description": "Static Server",
+  "main": "",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt-contrib-connect": "^0.8.0",
+    "grunt-contrib-sass": "^0.8.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "matchdep": "^0.3.0"
+  },
+  "scripts": {
+    "start": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luismatute/Static_Server.git"
+  },
+  "author": "Luis Matute",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luismatute/Static_Server/issues"
+  },
+  "homepage": "https://github.com/luismatute/Static_Server"
+}

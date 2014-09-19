@@ -1,0 +1,41 @@
+//
+// Utilities
+// --------------------------------------------------
+
+// Floats
+// -------------------------
+	.clearfix {
+		@include clearfix();
+	}
+	.center-block {
+		@include center-block();
+	}
+	.inline-block, .ib {
+		display: inline-block;
+		*display: inline;
+		zoom: 1;
+		vertical-align: top;
+	}
+	.pull-right {
+		float: right !important;
+	}
+	.pull-left {
+		float: left !important;
+	}
+
+
+// Toggling content
+// -------------------------
+	.hide {
+		display: none !important;
+	}
+	.show {
+		display: block !important;
+	}
+	.invisible {
+		visibility: hidden;
+	}
+	.hidden {
+		display: none !important;
+		visibility: hidden !important;
+	}
