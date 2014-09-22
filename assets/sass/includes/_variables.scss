@@ -1,3 +1,35 @@
 //
 // Variables
 // --------------------------------------------------
+
+// Paths
+	$font-path: 				"/assets/fonts";
+	$img_path:					"/assets/img";
+
+// Fonts
+	$font-yellowTailReg: 		'yellow-modregular', Helvetica, sans-serif;
+	$font-bebasReg: 			'bebas_modregular', Helvetica, sans-serif;
+	$font-beaches: 				'beachesIcons', Helvetica, sans-serif;
+	$font-videojs: 				'VideoJS', Helvetica, sans-serif;
+	$font-helv67-medCond: 		'HelveticaNeue67MdCn', Helvetica, sans-serif;
+	$font-arial: 				Arial, Helvetica, sans-serif;
+
+// Colors
+	$blue: 			 			#00abe6;
+	$blue-light:				#00beff;
+	$red: 		 			    #ed5431;
+	$red-light:					#f54633;
+	$black: 					#3b3e3e;
+	$pink: 						#ef7381;
+	$pink-dark:					#ea4558;
+	$green: 					#809a00;
+	$green-light: 				#95b300;
+
+	$gray-dark:              	#373737;
+	$gray-light:              	#666;
+	$gray-lighter: 				#f6f6f6;
+	$gray: 						#eaeaea;
+
+// Links
+	$link-color:            	$blue;
+	$link-hover-color:      	$blue-light; // $blue + 10% lighter

@@ -1,0 +1,46 @@
+//
+// Fonts
+// --------------------------------------------------
+
+@font-face {
+	font-family: 'bebas_modregular';
+	src: url('#{$font-path}/bebasRegular/bebasmod-regular-webfont.eot');
+	src: url('#{$font-path}/bebasRegular/bebasmod-regular-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('#{$font-path}/bebasRegular/bebasmod-regular-webfont.woff') format('woff'),
+		 url('#{$font-path}/bebasRegular/bebasmod-regular-webfont.ttf') format('truetype'),
+		 url('#{$font-path}/bebasRegular/bebasmod-regular-webfont.svg#bebas_modregular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+
+}
+@font-face {
+	font-family: 'yellow-modregular';
+	src: url('#{$font-path}/yellowTailRegular/yellow-mod-regular-webfont.eot');
+	src: url('#{$font-path}/yellowTailRegular/yellow-mod-regular-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('#{$font-path}/yellowTailRegular/yellow-mod-regular-webfont.woff') format('woff'),
+		 url('#{$font-path}/yellowTailRegular/yellow-mod-regular-webfont.ttf') format('truetype'),
+		 url('#{$font-path}/yellowTailRegular/yellow-mod-regular-webfont.svg#yellow-modregular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+
+}
+@font-face {
+	font-family:'HelveticaNeue67MdCn';
+	src: url('#{$font-path}/helveticaNeue67MedCond/helveticaneue-mediumcond-webfont.eot');
+	src: url('#{$font-path}/helveticaNeue67MedCond/helveticaneue-mediumcond-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('#{$font-path}/helveticaNeue67MedCond/helveticaneue-mediumcond-webfont.woff') format('woff'),
+		 url('#{$font-path}/helveticaNeue67MedCond/helveticaneue-mediumcond-webfont.ttf') format('truetype'),
+		 url('#{$font-path}/helveticaNeue67MedCond/helveticaneue-mediumcond-webfont.svg#HelveticaNeue67MdCn') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'beachesIcons';
+	src:url('#{$font-path}/beachesIcons/beachesIcons.eot?t3m10d');
+	src:url('#{$font-path}/beachesIcons/beachesIcons.eot?#iefixt3m10d') format('embedded-opentype'),
+		url('#{$font-path}/beachesIcons/beachesIcons.woff?t3m10d') format('woff'),
+		url('#{$font-path}/beachesIcons/beachesIcons.ttf?t3m10d') format('truetype'),
+		url('#{$font-path}/beachesIcons/beachesIcons.svg?t3m10d#beachesIcons') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
